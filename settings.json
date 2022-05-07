@@ -33,18 +33,20 @@
   "[jsonc]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
+  "editor.bracketPairColorization.enabled": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.find.addExtraSpaceOnTop": false,
+  "editor.guides.bracketPairs": "active",
   "javascript.preferences.importModuleSpecifier": "relative",
   "javascript.preferences.quoteStyle": "single",
+  "peacock.color": "450000",
   "prettier.configPath": ".prettierrc",
   "typescript.preferences.importModuleSpecifier": "relative",
-  "peacock.color": "450000",
   "files.exclude": {
-    ".idea": true,
-    "**/*.spec.ts": true,
     "dist": true,
+    "**/*.spec.ts": true,
     "e2e": true,
+    ".idea": true,
     "lib": true,
     "node_modules": true
   }
