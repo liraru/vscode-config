@@ -41,7 +41,11 @@
   "typescript.preferences.importModuleSpecifier": "relative",
   "peacock.color": "450000",
   "files.exclude": {
-    "node_modules": true,
-    "e2e": true
+    ".idea": true,
+    "**/*.spec.ts": true,
+    "dist": true,
+    "e2e": true,
+    "lib": true,
+    "node_modules": true
   }
 }
