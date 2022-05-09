@@ -36,6 +36,7 @@
   "editor.bracketPairColorization.enabled": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.find.addExtraSpaceOnTop": false,
+  "editor.matchBrackets": "always",
   "editor.guides.bracketPairs": "active",
   "javascript.preferences.importModuleSpecifier": "relative",
   "javascript.preferences.quoteStyle": "single",
